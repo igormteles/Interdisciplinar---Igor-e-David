@@ -1,5 +1,6 @@
 import { executarComandoSQL } from "../database/mysql";
 import { Medico } from "../model/MedicoEntidade"; 
+//
 export class MedicoRepository{
 
     constructor(){
